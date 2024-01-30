@@ -1,0 +1,17 @@
+{
+  "name": "webbb3",
+  "version": "1.0.0",
+  "description": "Blockchain experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Eder Nilson",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
